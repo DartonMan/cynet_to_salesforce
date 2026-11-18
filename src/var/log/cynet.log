@@ -1,0 +1,17 @@
+2026-11-17 17:14:00,544 - DEBUG - asyncio - Using selector: EpollSelector
+2026-11-17 17:17:13,519 - DEBUG - asyncio - Using selector: EpollSelector
+2026-11-17 17:18:36,325 - DEBUG - root - Headers: {'host': '10.200.2.98:8000', 'user-agent': 'HTTPie', 'content-type': 'application/json', 'content-length': '42', 'connection': 'close'}
+2026-11-17 17:18:36,325 - DEBUG - root - Payload: {
+"field1":10,
+"field2":"A string value
+"}
+2026-11-18 10:33:04,996 - DEBUG - root - Headers: {'host': 'support.ots-web.com:8000', 'user-agent': 'HTTPie', 'content-type': 'application/json', 'content-length': '42', 'connection': 'close'}
+2026-11-18 10:33:04,996 - DEBUG - root - Payload: {
+"field1":10,
+"field2":"A string value
+"}
+2026-11-18 10:33:07,073 - DEBUG - root - Headers: {'host': 'support.ots-web.com:8000', 'user-agent': 'HTTPie', 'content-type': 'application/json', 'content-length': '42', 'connection': 'close'}
+2026-11-18 10:33:07,073 - DEBUG - root - Payload: {
+"field1":10,
+"field2":"A string value
+"}
